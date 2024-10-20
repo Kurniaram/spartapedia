@@ -1,2 +1,2 @@
-# spartapedia
-Mini Project 1
+# bucket
+Mini Project 2
